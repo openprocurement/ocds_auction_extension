@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Auction"
+  },
+  "description": {
+    "en": "Extension which shows all auction properties of lots and tender"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/openprocurement/ocds_auction_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+    "compatibility": [
+    "1.1"
+  ]
+}
