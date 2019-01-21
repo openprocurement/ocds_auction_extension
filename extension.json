@@ -8,10 +8,13 @@
   "documentationUrl": {
     "en": "https://github.com/openprocurement/ocds_auction_extension"
   },
+  "compatibility": [
+    "1.1"
+  ],
   "schemas": [
     "release-schema.json"
   ],
-    "compatibility": [
-    "1.1"
+  "testDependencies": [
+    "https://raw.githubusercontent.com/open-contracting/ocds_bid_extension/master/extension.json"
   ]
 }
