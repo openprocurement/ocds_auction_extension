@@ -36,10 +36,14 @@
     },
     "Bid": {
       "properties": {
-        "participationUrl": {
-          "title": "Participation url",
-          "type": "string",
-          "description": "A link for participation in auction"
+        "details": {
+          "properties": {
+            "participationUrl": {
+              "title": "Participation url",
+              "type": "string",
+              "description": "A link for participation in auction"
+            }
+          }
         }
       }
     }
